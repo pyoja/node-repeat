@@ -1,3 +1,4 @@
+//comments.js
 const express = require("express");
 const router = express();
 const Comment = require("./schema/comments");
